@@ -1,0 +1,8 @@
+puts "Give me two numbers"
+
+love32 = gets.chomp.to_i
+mem34 = gets.chomp.to_i
+
+puts love32+mem34
+puts love32-mem34
+puts love32*mem34
